@@ -1,0 +1,13 @@
+body {
+  padding: 50px;
+}
+
+.productImg {
+  width: 200px;
+  height: auto;
+}
+
+.productPageImg {
+  max-width: 400px;
+  height: auto;
+}
